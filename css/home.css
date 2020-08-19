@@ -27,7 +27,13 @@
 }
 
 .card-large {
-	height: 90px;
+	color: #003153;
+	height: 80px;
+}
+
+.card-larger {
+	color: #003153;
+	height: 100px;
 }
 
 .card-text-wrapper {
